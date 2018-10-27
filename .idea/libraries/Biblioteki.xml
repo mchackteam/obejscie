@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Biblioteki">
+    <CLASSES>
+      <root url="file://F:/jareddev/Biblioteki" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://F:/jareddev/Biblioteki" recursive="false" />
+  </library>
+</component>
